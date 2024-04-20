@@ -14,7 +14,7 @@
 		);
 		$fields = json_encode ( $fields );
 		$headers = array (
-		        'Authorization: key=' . "AAAA2dK8W9s:APA91bGkyY-rLmpkmgU96a45Zr2ZAJY4YCqrwwmRk5WwA61JPg590AYu2Uj9nK77WizT2YBdTZwJmo_MzZoVeIJy8K6ORtolI4nj627Gcf8aFGYfwumqddEqJ8wOcnP7FSomwu7WBh8Q",      
+		        'Authorization: key=' . "",      
 		        'Content-Type: application/json'
 		);
 
